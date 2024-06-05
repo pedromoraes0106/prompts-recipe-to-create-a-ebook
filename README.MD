@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título de um ebook sobre o tema hipertrofia para iniciantes do nicho de musculação e do subnicho é hipertrofia, o título deve ser épico e curto, e tenha uma temática esportiva, me liste 5 variações de título                                                 |
+| conteúdo | faça um texto para ebook, com foco em hipertrofia para iniciantes, definindo o que é hipertrofia, como atingir a hipertrofia, alimentação, descanso e dicas de treino e porque é importante entender utilizando exemplos na prática |
 
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | homem treinando musculação em um fundo preto --v 5.1 |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
@@ -89,4 +89,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Pedro Moraes](https://github.com/pedromoraes0106/)
