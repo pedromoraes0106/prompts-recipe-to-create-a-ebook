@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/pedromoraes0106/prompts-recipe-to-create-a-ebook/blob/main/output/ebook_hipertrofia.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://drive.google.com/file/d/1XKQ0D5WmE_Vlk2KGyq7m7O8leG14xar3/view?usp=sharing" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
